@@ -1,6 +1,6 @@
 <div align=center>
 <!-- Title Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Yeji+Han;Welcome+to+my+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Yeji;Welcome+to+my+GitHub" alt="Typing SVG" />
 </div>
 
 </br>
